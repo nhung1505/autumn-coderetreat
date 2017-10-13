@@ -189,9 +189,13 @@ table{
 table tr td{
     border: 1px solid #cccccc;
     color: #333;
-    font-size: 16px;
+    font-size: 14px;
     text-align: left;
-    padding: 3px 5px;
+    padding: 7px 10px;
+}
+table .table-heading{
+    background-color: #cfe2f3;
+    font-weight: bold;
 }
 table .first-col{
     width: 30%;
